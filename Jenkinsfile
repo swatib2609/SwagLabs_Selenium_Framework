@@ -1,11 +1,6 @@
 pipeline {
     agent any
 
-    tools {
-        maven 'Maven3'
-        jdk 'Java17'
-    }
-
     environment {
         REPORT_DIR = "reports"
         SCREENSHOT_DIR = "screenshots"
@@ -15,7 +10,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/<your-repo>.git'
+                git branch: 'main', url: 'https://github.com/swatib2609/SwagLabs_Selenium_Framework.git'
             }
         }
 
