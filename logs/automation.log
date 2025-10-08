@@ -1,0 +1,6 @@
+2025-10-08 10:43:53 INFO  Log:10 - Starting test: validLogin
+2025-10-08 10:56:21 INFO  Log:10 - Starting test: validLogin
+2025-10-08 10:57:20 INFO  Log:10 - Starting test: verifyCartEmpty
+2025-10-08 13:57:42 INFO  Log:10 - Starting test: verifyCartEmpty
+2025-10-08 13:58:53 INFO  Log:10 - Starting test: verifyCartEmpty
+2025-10-08 14:00:12 INFO  Log:10 - Starting test: addProductToCart
