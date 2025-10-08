@@ -2,9 +2,9 @@
 <suite name="SauceDemo Test Suite" parallel="false">
     <test name="Functional Tests">
         <classes>
-            <class name="tests.LoginTest"/>
-            <class name="tests.ProductSelectTest"/>
-            <class name="tests.CartTest"/>
+            <class name="Tests.LoginTest"/>
+            <class name="Tests.ProductSelectTest"/>
+            <class name="Tests.CartTest"/>
         </classes>
     </test>
 </suite>
